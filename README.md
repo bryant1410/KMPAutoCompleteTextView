@@ -1,4 +1,4 @@
-#AutoCompleteTextView
+# AutoCompleteTextView
 ### KMP Algorithm
 
 * 自动补全TextView
@@ -21,5 +21,5 @@
 ![](https://github.com/andyxialm/KMPAutoCompleteTextView/blob/master/art/Screenshot_sample.png?raw=true)
 
 
-#License
+# License
 <p>KMPAutoCompleteTextView is available under the MIT license.</p>
